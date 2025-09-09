@@ -7,6 +7,6 @@ public class Day2 {
     System.out.print("Baris lurus atau ke samping");
 
     String nama = "Fatmawati";
-    System.out.printf("Nama : %s" , nama);
+    System.out.printf("Nama : %s", nama);
   }
 }
