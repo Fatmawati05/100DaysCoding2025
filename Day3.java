@@ -9,8 +9,8 @@ public class Day3 {
         /* Komentar banyak baris
            Dipakai kalau penjelasannya agak panjang
         */
-        int a = 5;
-        int b = 3;
+        int a = 10;
+        int b = 10;
         int hasil = a + b; // Menjumlahkan a dan b
         System.out.println("Hasil: " + hasil);
 
