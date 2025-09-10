@@ -1,27 +1,23 @@
-// Jenis-jenis komentar di Java
-// "//"       -> komentar singkat, cuma satu baris
-// "/*...*/"  -> komentar agak panjang, bisa lebih dari satu baris
-// "/**...*/" -> komentar dokumentasi (Javadoc), biasanya dipake di class atau method
-
 package Fatmawati;
 
 public class Day3 {
-
-    /**
-     * Contoh komentar dokumentasi (Javadoc)
-     * Biasanya ditulis di atas class, method, atau variabel
-     * biar program lebih rapi dan jelas
-     */
     public static void main(String[] args) {
         
         // Komentar satu baris
-        // Catatan singkat aja, biasanya buat jelasin kode di bawah ini
-        System.out.println("Fatmawati"); // Bisa juga komen di ujung baris
+        System.out.println("Halo, Fatmawati"); // Bisa juga di ujung baris
 
         /* Komentar banyak baris
-           Dipake kalau penjelasannya agak panjang
+           Dipakai kalau penjelasannya agak panjang
         */
+        int a = 5;
+        int b = 3;
+        int hasil = a + b; // Menjumlahkan a dan b
+        System.out.println("Hasil: " + hasil);
 
-        // komentar tidak akan muncul di consule
+        /**
+         * Komentar dokumentasi (Javadoc)
+         * Biasanya ditulis untuk class atau method
+         */
+        System.out.println("Belajar komentar di Java itu mudah!");
     }
 }
