@@ -10,8 +10,7 @@ public class Day3 {
     /**
      * Contoh komentar dokumentasi (Javadoc)
      * Biasanya ditulis di atas class, method, atau variabel
-     * Fungsinya biar program lebih rapi dan jelas
-     * Kalau digenerate pake tool javadoc, bisa otomatis jadi dokumentasi HTML
+     * biar program lebih rapi dan jelas
      */
     public static void main(String[] args) {
         
@@ -21,8 +20,8 @@ public class Day3 {
 
         /* Komentar banyak baris
            Dipake kalau penjelasannya agak panjang
-           Misalnya mau jelasin logika program biar gampang dipahami
-           Bisa juga buat nonaktifin beberapa baris kode pas lagi nge-debug
         */
+
+        // komentar tidak akan muncul di consule
     }
 }
