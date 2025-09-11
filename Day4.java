@@ -26,7 +26,7 @@ public class Day4 {
                 // 8. \f = form feed (jarang dipakai, efeknya berbeda-beda)
                 System.out.println("Ini sebelum\fIni sesudah ");
 
-                //9. \u2665 = Unicode atau simbol (contoh simbol hati ♥)
-                System.out.println("Simbol hati: \u2665");
+                //9. \u03A9 = Unicode atau simbol (contoh simbol omega Ω )
+                System.out.println("Simbol hati: \u03A9");
     }
 }
