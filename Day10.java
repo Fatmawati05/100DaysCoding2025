@@ -1,5 +1,6 @@
 public class Day10 {
     public static void main(String[] args) {
+        // nilai constanta tidak bisa di ubah 
         final String NAMA = "Fatmawati"; // constanta nama
         final int UMUR = 20;             // constanta umur
 
