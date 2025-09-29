@@ -1,6 +1,5 @@
 public class Day22 {
     public static void main(String[] args) {
-        // mentukan sisi secara langsung
         int sisi = 8;
 
         // menghitung luas
