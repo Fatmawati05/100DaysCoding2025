@@ -3,7 +3,7 @@ public class Day59 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-        System.out.print("masukkan nilai N: ");
+        System.out.print("masukkan nilai N: "); 
         int n = input.nextInt();
 
         System.out.println("\nangka ganjil dari 1 sampai " + n + ":");
