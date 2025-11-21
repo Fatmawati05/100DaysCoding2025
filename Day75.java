@@ -1,0 +1,10 @@
+public class Day75 {
+    public static void main(String[] args) {
+        String teks = "Fatmawati";
+
+        System.out.println("Teks asli : " + teks);
+        System.out.println("Panjang teks : " + teks.length());
+        System.out.println("Huruf besar : " + teks.toUpperCase());
+        System.out.println("Huruf kecil : " + teks.toLowerCase());
+    }
+}
